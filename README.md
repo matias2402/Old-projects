@@ -1,11 +1,8 @@
-# \[Group name\]
+This repository is a collection of previous projects that Matias Hall has worked on
 
-**Group members:**
-- A
-- B
-- C
+It is seperated into folders containing the following:
 
-This repository contains  
-1. Inaugural project. 
-2. Data project. We fetch data from **source x** on **y** and show that ...
-3. Model project. We model ...
+1. NUMECON
+2. Dynamic_Programming
+3. Housning_inequality
+4. Microeconometrics

@@ -1,4 +1,4 @@
-This repository is a collection of previous projects that Matias Hall has worked on
+This repository is a collection of previous projects that *Matias Hall* has worked on
 
 It is seperated into folders containing the following:
 

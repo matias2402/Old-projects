@@ -8,4 +8,4 @@ Here is the code that generated the results for the seminar paper: Pandemic pric
 
 ## This folder contains
 
-1. [Hand-in.ipynb](Hand_in.ipynb) Notebook containing all the code and results.
+1. [Hand-in.ipynb](Hand-in.ipynb) Notebook containing all the code and results.

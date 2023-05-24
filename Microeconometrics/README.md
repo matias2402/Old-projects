@@ -1,6 +1,6 @@
 This folder contains the code to used to answer the Winter 2022/2023 Microeconometrics Exam
 
-In it we solve a binary model for panel data and cross sectional data, using maximum likelihood and quadrature and simulated maximum likelihood. It also contains the another project where we have used the LASSO estimator.
+In it we solve a binary model for panel data and cross sectional data, using maximum likelihood and quadrature and simulated maximum likelihood. It also contains another project where we have used the LASSO estimator.
 
 ### Authors:
 
